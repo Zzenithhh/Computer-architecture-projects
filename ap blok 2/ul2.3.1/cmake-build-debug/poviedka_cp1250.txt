@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+
+
+
+<head>
+<meta http-equiv="Content-Language" content="cs">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Ceska kodovani v tabulkach</title>
+
+<meta name="description" content="Tabulky znak�� ve st��edoevropských kódovåních">
+<link rel="canonical" href="https://www.jakpsatweb.cz/cestina-tabulky.html">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="etc/jpw2.css">
+</head>
+
+<body class="zak" id="www-jakpsatweb-cz">
+<div id="text">
+	
+
+<h1>Tabulky českých kódovåní</h1>
+<p>Počítače kódují písmena jako čísla. Čísla od 0 do 32 jsou systémové znaky, od 
+	33 do 127 jsou znaky anglické abecedy (plus znaky typu zåvorek a zavinåč��) a 
+	čísla od 128 do 255 jsou r��zné nårodní znaky. Jejich p��i��azení čísl��m se 
+	označuje jako kódovåní.</p>
+<p>V současnosti se vyskytuje několik takových kódovåní če��tiny. Zde jsou 
+	zobrazeny tabulky pro dvě nejčastěj��í českå kódovåní (win a iso), dvě ��id��í 
+	českå kódovåní (dos a mac) plus tabulka Latin 1, se kterou se na��inec té�� 
+	často potkå.</p>
+<p>Výsledné zobrazení je zåvislé také na pou��itém fontu. Pou��il jsem písmo Times 
+	New Roman CE z Windows (výchozí znakovå sada windows-1250), obråzky jsou 
+	sejmuté z <a href="archiv/chars.html">testovací strånky</a> prohlí��ečem 
+	Mozilla. Proto��e ne v��echny znaky v��ech kódovåní toto písmo pokrývå, někde 
+	se zobrazují otazníky, jinde obdélníčky. P��i pou��ití ne-windowsích písem by 
+	zobrazení byla trochu jinå, ale zji����ovåním v��ech kombinací bych pak mohl 
+	stråvil pråzdniny.</p>
+<p>Kdo chce zjistit kód znaku, musí si sečíst čísla v zåhlavích tabulky.</p>
+<h2>Latin 2 neboli ISO 8859-2</h2>
+<p>Standardní české kódovåní pou��ívané na Unixu, Linuxu a akceptované i systémem 
+	Windows. V Internet Exploreru je označovåno jako st��edoevropské (ISO). Je v 
+	českých prohlí��ečích nastavené jako výchozí, ale nelze na to spoléhat.</p>
+<p><img border="0" src="images/kodovani/iso88592.gif" alt="Latin 2" width="275" height="410"></p>
+<h2>Windows - 1250</h2>
+<p>Windowsovské kódovåní v prohlí��ečích Internet Explorer označované jako 
+	st��edoevropské.</p>
+<p><img border="0" src="images/kodovani/win.gif" alt="Windows 1250" width="287" height="410"></p>
+<p>Ve Windows se tyto znaky pí��í s altem a s nulou na začåtku. Nap��. Alt + 0132 
+	jsou dolní uvozovky.</p>
+<h2>Kódovåní pro DOS</h2>
+<p>Ve výstupech ze stra��ích program�� se lze setkat s dosovským kódovåním.</p>
+<p><img border="0" src="images/kodovani/dos.gif" alt="PC Dos" width="273" height="410"></p>
+<h2>Mac CE</h2>
+<p>Macintoshovské kódovåní pro st��ední Evropu</p>
+<p><img border="0" src="images/kodovani/macce.gif" alt="MacCE" width="283" height="410"></p>
+<h2>Latin 1</h2>
+<p>Označuje se jako zåpadoevropské jazyky. Ve starých prohlí��ečích Netscape se 
+	zobrazuje, pokud dokument neobsahuje ��ådné informace o kódovåní (meta tag 
+	nebo http hlavičku).</p>
+<p><img border="0" src="images/kodovani/latin1.gif" alt="Latin 1" width="291" height="410"></p>
+	
+	<p>&nbsp;</p>
+	
+<div id="reklama-spodni">
+
+</div>
+</div>
+
+<div id="navigace">
+
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p >P��edchozí: <a id="prev" href="cestina-problemy.html">Diagnostickå strånka</a></p><h3>Vizte té��</h3>
+	<ul>
+		<li><a href="cestina.html">Pojednåní o če��tině</a>,
+		</li>
+		<li><a href="archiv/rozdily-kodovani.html">Rozdíly kódovåní</a>,
+		</li>
+		<li><a href="archiv/chars.html">Testovací strånka</a></li>
+	</ul>
+
+
+
+
+ 	
+</div>
+
+<div id="hlavicka">
+
+
+<div id="logo">
+	<a href="index.html" id="logoa" accesskey="1">
+	<img src="images/jakpw.png" alt="Jak psåt web" width="131" height="88"></a>
+</div>
+
+<div id="slogan" >
+	o tvorbě, údr��bě a zlep��ovåní internetových strånek
+</div>
+<div id="hledani">
+	<form action="https://cse.google.com/">
+		<p>
+			<input type="hidden" name="cx" value="008997274925841959410:atrkgfnhjvc">	
+			<input type="hidden" name="cof" value="LH:;CX:Jak%20ps%C3%A1t%20web;LW:0;FORID:1;S:https://www.jakpsatweb.cz;L:https://www.jakpsatweb.cz/images/jakpw-100.gif;LP:1">
+			<input type="hidden" name="hl" value="cs">
+			<input type="hidden" name="ie" value="utf-8">
+			<input type="hidden" name="client" value="pub-4372514035999321">
+			<input type="hidden" name="channel" value="8759767026">
+			<input name="q" class="text" type="text" size="12">
+			<input type="submit" name="sa" class="submit" value="Hledat">
+		</p>
+	</form>
+</div>
+
+<div id="ouska" >
+	<a class="zak" href="index.html">Nåvody</a>
+	<a class="html" href="html/index.html">HTML</a>
+	<a class="css" href="css/index.html">CSS</a>
+	<a class="js" href="javascript/index.html">JavaScript</a>
+	<a class="clanky" href="clanky/index.html" >Člånky</a>
+	<a class="ost" href="navigace/ostatni.html">Ostatní</a>
+</div>
+	
+<div id="prouzek">
+		
+			
+
+<p><a href="navigace/zakladni-kurz.html">Zåklady</a>
+<a href="navigace/prvky-stranek.html">Prvky strånek</a>
+<a id="sel" href="navigace/tvorba-webu.html">Tvorba webu</a></p>
+
+</div>
+</div>
+
+
+
+<div id="hrasek"></div>
+
+<script type="text/javascript" src="etc/patka3.js"></script>
+ 
+<p class="patka-global"><a href="https://www.jakpsatweb.cz/">Jak psåt web</a> pí��e Yuh��, 
+Du��an Janovský. <a href="kontakt.html">Kontakt</a>.
+
+</p>
+
+
+
+
+</body>
+
+
+
+</html>

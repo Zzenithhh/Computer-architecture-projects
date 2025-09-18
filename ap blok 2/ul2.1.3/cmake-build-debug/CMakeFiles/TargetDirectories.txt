@@ -1,0 +1,3 @@
+/Users/arikmirnij/Documents/ap blok 2/ul2.1.3/cmake-build-debug/CMakeFiles/ul3.dir
+/Users/arikmirnij/Documents/ap blok 2/ul2.1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arikmirnij/Documents/ap blok 2/ul2.1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

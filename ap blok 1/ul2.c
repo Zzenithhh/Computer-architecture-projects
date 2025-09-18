@@ -1,0 +1,49 @@
+#include <stdio.h>
+
+void bin(int a) {
+    int i = 0;
+    int c = 0;
+
+    while (a != 0) {
+        if (a % 2 == 1){
+            ++c;
+        }
+        a = a / 2;
+        ++i;
+    }
+
+    --i;
+    printf("%d\n", c);
+}
+
+int main(void) {
+
+    int cislo = 209;
+    bin(cislo);
+    return 0;
+}
+
+void calculate_float_epsilon() {
+    float epsilon = 1.0;
+    float sum = 2.0;
+
+    while (sum > 1.0) {
+        epsilon /= 2.0;
+        sum = 1.0 + epsilon / 2.0;
+
+    }
+    printf("Calculated float epsilon: %e\n", epsilon);
+    printf("FLT_EPSILON from float.h: %e\n", FLT_EPSILON);
+}
+
+void calculate_double_epsilon() {
+    double epsilon = 1.0;
+    double sum = 2.0;
+
+    while (sum > 1.0) {
+        epsilon /= 2.0;
+        sum = 1.0 + epsilon / 2.0;
+    }
+    printf("Calculated double epsilon: %e\n", epsilon);
+    printf("DBL_EPSILON from float.h:  %e\n", DBL_EPSILON);
+}

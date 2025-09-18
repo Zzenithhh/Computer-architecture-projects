@@ -1,0 +1,3 @@
+/Users/arikmirnij/Documents/Blok1/cmake-build-debug/CMakeFiles/Blok1.dir
+/Users/arikmirnij/Documents/Blok1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arikmirnij/Documents/Blok1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
